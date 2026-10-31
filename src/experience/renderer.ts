@@ -51,8 +51,8 @@ export function createRenderer(canvas: HTMLCanvasElement, state: SceneState) {
     }
     const mobile = width < 700;
     const cx = width * (mobile ? 0.5 : 0.65);
-    const cy = height * (mobile ? 0.35 : 0.47);
-    const radius = Math.min(width * (mobile ? 0.62 : 0.36), height * 0.43);
+    const cy = height * (mobile ? 0.28 : 0.47);
+    const radius = Math.min(width * (mobile ? 0.62 : 0.36), height * (mobile ? 0.28 : 0.43));
     const { spread, core, heat, fusion, balance } = state;
     ctx.globalCompositeOperation = 'screen';
 
@@ -74,9 +74,8 @@ export function createRenderer(canvas: HTMLCanvasElement, state: SceneState) {
       const x = (p.x * Math.cos(twist) - p.y * Math.sin(twist)) * contraction;
       const y = (p.x * Math.sin(twist) + p.y * Math.cos(twist)) * contraction;
       const alpha = (0.16 + p.depth * 0.55) * (1 - core * 0.45);
-      ctx.fillStyle = heat > 0.3
-        ? 'rgba(255,' + Math.round(205 - heat * 35) + ',145,' + alpha + ')'
-        : 'rgba(158,198,213,' + alpha + ')';
+      ctx.fillStyle = 'rgba(' + Math.round(158 + heat * 97) + ','
+        + Math.round(198 - heat * 28) + ',' + Math.round(213 - heat * 68) + ',' + alpha + ')';
       ctx.beginPath();
       ctx.arc(cx + x * radius, cy + y * radius * 0.72,
         p.size * (mobile ? 0.7 : 1), 0, Math.PI * 2);

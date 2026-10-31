@@ -21,11 +21,12 @@ export default function Presentation() {
     const onKey = (event: globalThis.KeyboardEvent) => {
       if (dialog.current?.open || event.altKey || event.ctrlKey || event.metaKey) return;
       const element = event.target as HTMLElement;
-      if (element.closest('button, a, input, textarea, select')) return;
-      if (['ArrowRight', 'ArrowDown', ' ', 'ArrowLeft', 'ArrowUp', 'Home'].includes(event.key)) {
+      if (element.closest('a, input, textarea, select')) return;
+      if (element.closest('button') && event.key === ' ') return;
+      if (['ArrowRight', 'ArrowDown', ' ', 'ArrowLeft', 'ArrowUp'].includes(event.key)) {
         event.preventDefault();
         wake();
-        if (!event.repeat) navigate(['ArrowLeft', 'ArrowUp', 'Home'].includes(event.key) ? -1 : 1);
+        if (!event.repeat) navigate(['ArrowLeft', 'ArrowUp'].includes(event.key) ? -1 : 1);
       }
     };
     window.addEventListener('keydown', onKey);
@@ -55,7 +56,7 @@ export default function Presentation() {
         {index === 0 ? 'H₂ · GAS Y POLVO' : index === 1 ? 'COLAPSO LOCAL' : index === 2 ? 'NÚCLEO EN FORMACIÓN' : index === 3 ? 'H → He + ENERGÍA' : 'UNA ESTRELLA ESTABLE'}
       </div>
       {index === 4 && <div className="balance-key pointer-events-none" aria-hidden="true">
-        <span>↗ Presión</span><span>↙ Gravedad</span>
+        <span>Presión</span><span>Gravedad</span>
       </div>}
 
       <section className="narrative pointer-events-none" aria-labelledby="scene-title" aria-busy={busy}>

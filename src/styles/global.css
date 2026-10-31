@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+:root { color-scheme: dark; font-family: "Helvetica Neue", Arial, sans-serif; background: #080c14; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { font: inherit; cursor: pointer; }
+button:disabled { cursor: default; opacity: .3; }
+button:focus-visible, a:focus-visible { outline: 2px solid #e2ba80; outline-offset: 7px; }
+.presentation { height: 100dvh; min-height: 560px; cursor: pointer; }
+.vignette { background: linear-gradient(90deg, #080c1499 0%, transparent 65%), linear-gradient(0deg, #080c14 0%, transparent 38%, transparent 84%, #080c1466); }
+.edition { position: absolute; top: max(34px, env(safe-area-inset-top)); left: 5.5%; right: 5.5%; display: flex; justify-content: space-between; align-items: center; color: #9ba6b5; font-size: 9px; letter-spacing: .22em; }
+.edition span:first-child { color: #eee7da; letter-spacing: .36em; font-size: 14px; }
+.narrative { position: absolute; left: 8%; bottom: 20%; width: min(460px, 42%); }
+.chapter { display: flex; align-items: center; gap: 12px; color: #c5aa82; font-size: 9px; letter-spacing: .2em; font-weight: 500; }
+.chapter-line { width: 27px; height: 1px; background: #b29874; }
+.milestone-label { font-size: 10px; letter-spacing: .16em; color: #87929f; margin: 31px 0 18px; }
+.milestone-label span { margin-left: 17px; letter-spacing: .06em; }
+h1 { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif; font-weight: 400; white-space: pre-line; line-height: 1.08; letter-spacing: -.045em; font-size: clamp(40px, 4.6vw, 76px); margin: 0 0 23px; text-wrap: balance; }
+.description { max-width: 345px; color: #c5c9ce; font-size: clamp(13px, 1.1vw, 16px); line-height: 1.8; margin: 0; }
+.detail { max-width: 330px; color: #85909f; font-size: 11px; line-height: 1.8; margin: 16px 0 0; }
+.copy { animation: arrive .7s ease-out both; }
+@keyframes arrive { from { opacity: 0; transform: translateY(9px); } to { opacity: 1; transform: none; } }
+.scene-label { position: absolute; left: 73%; top: 68%; color: #82939f; font-size: 8px; letter-spacing: .15em; display: flex; gap: 13px; align-items: center; }
+.crosshair { color: #b49d7c; font-size: 19px; font-weight: 200; }
+.balance-key { position: absolute; left: 74%; top: 57%; display: flex; flex-direction: column; gap: 8px; font-size: 10px; }
+.balance-key span:first-child { color: #e9bc80; }
+.balance-key span:last-child { color: #86b9c7; }
+.footnote { position: absolute; left: 8%; right: 5.5%; bottom: 6%; display: flex; justify-content: space-between; color: #697583; font-size: 8px; letter-spacing: .12em; }
+.navigation { position: absolute; bottom: 11.5%; left: 8%; right: 5.5%; display: flex; align-items: center; gap: 24px; transition: opacity .5s; opacity: 0; pointer-events: none; }
+.presentation[data-awake="true"] .navigation, .navigation:focus-within { opacity: 1; pointer-events: auto; }
+.navigation button { border: 0; background: transparent; color: #b3bbc5; padding: 10px 0; font-size: 11px; }
+.navigation button:hover:not(:disabled) { color: #ffe0af; }
+.navigation .next { color: #e9d4b2; }
+.next span { margin-left: 17px; }
+.back span { margin-left: 12px; }
+.progress { display: flex; gap: 5px; }
+.progress span { width: 17px; height: 1px; background: #34404f; }
+.progress .filled { background: #d1b88f; }
+.navigation .sources { margin-left: auto; font-size: 9px; color: #87929f; }
+.tap-hint { position: absolute; bottom: 11.5%; right: 5.5%; padding-bottom: 11px; color: #7c8795; font-size: 8px; letter-spacing: .12em; opacity: 1; transition: opacity .5s; }
+.presentation[data-awake="true"] .tap-hint, .presentation:has(.navigation:focus-within) .tap-hint { opacity: 0; }
+.source-dialog { width: min(590px, calc(100% - 32px)); max-height: 85dvh; padding: 45px; border: 1px solid #2f3b49; background: #0e1520; color: #b9c1cd; cursor: auto; box-shadow: 0 25px 100px #0009; }
+.source-dialog::backdrop { background: #03070dd9; backdrop-filter: blur(6px); }
+.source-dialog h2 { font-family: Georgia, serif; font-size: 32px; font-weight: 400; color: #eee7da; }
+.source-dialog p, .source-dialog li { font-size: 13px; line-height: 1.8; }
+.source-dialog h3 { margin-top: 28px; font-size: 12px; color: #e7cca6; }
+.source-dialog a { color: #bacfdb; text-underline-offset: 4px; }
+.source-dialog ul { padding-left: 18px; }
+.source-dialog li { margin-bottom: 12px; }
+.source-dialog .dialog-small { font-size: 11px; color: #85909f; margin-top: 28px; }
+.close-dialog { float: right; background: transparent; border: 0; color: #e7cca6; padding: 4px; font-size: 12px; }
+
+@media (min-width: 1600px) { .narrative { bottom: 23%; } }
+@media (max-width: 699px) {
+  .presentation { min-height: 640px; }
+  .edition { top: max(24px, env(safe-area-inset-top)); left: 7%; right: 7%; }
+  .edition span:last-child { font-size: 7px; letter-spacing: .12em; }
+  .vignette { background: linear-gradient(0deg, #080c14 0%, #080c1499 32%, transparent 58%, transparent 85%, #080c1455); }
+  .narrative { left: 8%; bottom: 20%; width: 84%; }
+  .chapter { font-size: 8px; }
+  .milestone-label { margin: 19px 0 13px; font-size: 9px; }
+  h1 { font-size: clamp(35px, 9.5vw, 48px); margin-bottom: 16px; }
+  .description { font-size: 13px; line-height: 1.65; max-width: 370px; }
+  .detail { font-size: 10px; margin-top: 10px; line-height: 1.65; max-width: 370px; }
+  .scene-label { left: auto; right: 8%; top: 13%; font-size: 7px; }
+  .balance-key { left: auto; right: 8%; top: 26%; font-size: 8px; }
+  .footnote { bottom: max(25px, env(safe-area-inset-bottom)); left: 8%; right: 8%; font-size: 7px; gap: 25px; }
+  .footnote span:last-child { max-width: 105px; text-align: right; line-height: 1.6; }
+  .navigation { left: 8%; right: 8%; bottom: 11%; gap: 18px; flex-wrap: wrap; }
+  .navigation .sources { font-size: 8px; }
+  .navigation button { min-height: 44px; }
+  .back span { display: none; }
+  .progress span { width: 13px; }
+  .tap-hint { right: 8%; bottom: 11%; font-size: 7px; }
+  .source-dialog { padding: 28px; }
+}
+@media (max-height: 650px) and (min-width: 700px) {
+  .narrative { bottom: 24%; }
+  h1 { font-size: 42px; }
+  .detail { font-size: 10px; }
+  .milestone-label { margin-top: 18px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

@@ -81,3 +81,17 @@ No hay backend, autenticación, base de datos, imágenes externas ni Three.js.
 Si el proyecto conserva ajustes del antiguo HTML, elimina sus overrides de build
 en Vercel o selecciona Astro. Cada rama puede generar una Preview Deployment
 cuando la integración GitHub–Vercel está habilitada.
+
+## Índice y museo de los elementos
+
+- `/`: página de inicio con **Historia universal** y **Los elementos**.
+- `/historia-universal`: conserva la presentación del nacimiento de una estrella.
+- `/tabla-periodica`: museo tridimensional de los 118 elementos a 25 °C y 1 atm.
+
+La colección utiliza Three.js r187, carga diferida, un renderer WebGPU con fallback a WebGL 2 y geometrías/materiales compartidos. El detalle de las muestras se reserva al elemento seleccionado. Las escenas se renderizan bajo demanda y liberan recursos al desmontarse; la calidad limita la resolución del lienzo. El paquete Three.js solo se descarga en la ruta de la tabla, no en el inicio ni en la presentación.
+
+Arrastra para orbitar, botón derecho o dos dedos para desplazar, rueda o pellizco para acercar. Hay botones de cámara y un índice accesible para seleccionar con teclado. La búsqueda admite nombres en español e inglés, símbolos, números y acentos. Los filtros conservan las posiciones periódicas. Al volver desde una muestra se restaura la cámara de la tabla.
+
+La ficha distingue apariencia documentada, aproximada y conceptual, identifica el alótropo y enlaza las fuentes. Hay navegación sin 3D mediante el índice si el dispositivo no soporta el renderer. El detalle puede rotarse con los controles orbitales; las flechas cambian de elemento con el lienzo enfocado y Escape vuelve a la tabla.
+
+Datos, geometrías/materiales, escena e interfaz están separados en `src/elements/`. Ver [procedencia y límites científicos](docs/elementos-procedencia.md) antes de modificar datos. No se descargan texturas, modelos ni fuentes externos durante la visita.

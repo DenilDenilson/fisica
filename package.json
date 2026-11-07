@@ -18,13 +18,15 @@
     "gsap": "^3.13.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "tailwindcss": "^4.1.0"
+    "tailwindcss": "^4.1.0",
+    "three": "0.187.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
     "@types/node": "^22.20.5",
     "@types/react": "^19.1.0",
     "@types/react-dom": "^19.1.0",
+    "@types/three": "^0.187.0",
     "tsx": "^4.20.0",
     "typescript": "^5.9.0"
   },

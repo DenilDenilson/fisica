@@ -1,18 +1,19 @@
 ---
-import Presentation from '../components/Presentation';
 import '../styles/global.css';
+import '../styles/home.css';
 ---
 <!doctype html>
 <html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#080c14" />
-    <meta name="description" content="Contempla el nacimiento de una estrella. Una experiencia científica animada que avanza a tu ritmo." />
-    <title>Fisica — Nace una estrella</title>
-  </head>
-  <body>
-    <Presentation client:load />
-    <noscript>Activa JavaScript para explorar la presentación interactiva sobre el nacimiento de una estrella.</noscript>
-  </body>
+<head><meta charset="utf-8" /><link rel="icon" type="image/svg+xml" href="/favicon.svg" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="theme-color" content="#080c14" /><meta name="description" content="Fisica: una exploración visual de la historia del universo y de la materia que lo compone." /><title>Fisica — Explorar el universo</title></head>
+<body>
+  <main class="home">
+    <header><a class="home-brand" href="/">FISICA</a><span>UN ARCHIVO EN EXPANSIÓN</span></header>
+    <section class="home-intro"><p>OBSERVAR. COMPRENDER. ASOMBRARSE.</p><h1>El universo tiene<br/>mucho que contar.</h1><p class="home-subtitle">Dos formas de acercarse a una misma historia.<br/>El tiempo que nos trajo aquí. La materia que nos compone.</p></section>
+    <nav class="home-entries" aria-label="Experiencias de Fisica">
+      <a class="home-entry history-entry" href="/historia-universal"><div class="home-art cosmos-art" aria-hidden="true"><i></i><i></i><i></i></div><div class="entry-copy"><span class="entry-number">01 / EL TIEMPO</span><h2>Historia universal</h2><p>Una historia que empieza entre las estrellas.</p><span class="entry-action">Entrar al recorrido <span>→</span></span></div></a>
+      <a class="home-entry matter-entry" href="/tabla-periodica"><div class="home-art matter-art" aria-hidden="true"><span>Au</span><i></i></div><div class="entry-copy"><span class="entry-number">02 / LA MATERIA</span><h2>Los elementos</h2><p>118 elementos. Un museo de lo que somos.</p><span class="entry-action">Explorar la colección <span>→</span></span></div></a>
+    </nav>
+    <footer><span>LA HISTORIA DEL UNIVERSO, CONTADA CON ANIMACIONES.</span><span>UN PROYECTO DE CURIOSIDAD.</span></footer>
+  </main>
+</body>
 </html>

@@ -1,0 +1,4014 @@
+[
+  {
+    "number": 1,
+    "symbol": "H",
+    "name": "Hidrógeno",
+    "englishName": "Hydrogen",
+    "mass": "1.0080",
+    "family": "No metales",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas molecular",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 8.24e-05,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 13.81,
+    "boilingK": 20.28,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Hydrogen",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen"
+      },
+      {
+        "title": "Royal Society of Chemistry · Hydrogen",
+        "url": "https://periodic-table.rsc.org/element/1/hydrogen"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 2,
+    "symbol": "He",
+    "name": "Helio",
+    "englishName": "Helium",
+    "mass": "4.00260",
+    "family": "Gases nobles",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas monoatómico",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.0001636,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 0.95,
+    "boilingK": 4.22,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Helium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Helium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Helium",
+        "url": "https://periodic-table.rsc.org/element/2/helium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 3,
+    "symbol": "Li",
+    "name": "Litio",
+    "englishName": "Lithium",
+    "mass": "7.0",
+    "family": "Alcalinos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 0.534,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 453.65,
+    "boilingK": 1615.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b5b9bc",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Lithium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Lithium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Lithium",
+        "url": "https://periodic-table.rsc.org/element/3/lithium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 4,
+    "symbol": "Be",
+    "name": "Berilio",
+    "englishName": "Beryllium",
+    "mass": "9.012183",
+    "family": "Alcalinotérreos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 1.85,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1560.0,
+    "boilingK": 2744.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b8c0c3",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Beryllium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Beryllium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Beryllium",
+        "url": "https://periodic-table.rsc.org/element/4/beryllium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 5,
+    "symbol": "B",
+    "name": "Boro",
+    "englishName": "Boron",
+    "mass": "10.81",
+    "family": "Metaloides",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Boro cristalino β-romboédrico",
+    "appearance": "Fragmento de boro cristalino β-romboédrico. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 2.37,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2348.0,
+    "boilingK": 4273.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#423a33",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Boron",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Boron"
+      },
+      {
+        "title": "Royal Society of Chemistry · Boron",
+        "url": "https://periodic-table.rsc.org/element/5/boron"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 6,
+    "symbol": "C",
+    "name": "Carbono",
+    "englishName": "Carbon",
+    "mass": "12.011",
+    "family": "No metales",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Grafito hexagonal (carbono)",
+    "appearance": "Láminas oscuras de grafito; no representa diamante.",
+    "density": 2.267,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 3823.0,
+    "boilingK": 4098.0,
+    "propertyNote": "Valores de referencia de PubChem; pueden depender del alótropo. Carbono y arsénico subliman a 1 atm.",
+    "visual": {
+      "kind": "graphite",
+      "color": "#26282b",
+      "metalness": 1,
+      "roughness": 0.5
+    },
+    "sources": [
+      {
+        "title": "PubChem · Carbon",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon"
+      },
+      {
+        "title": "Royal Society of Chemistry · Carbon",
+        "url": "https://periodic-table.rsc.org/element/6/carbon"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 7,
+    "symbol": "N",
+    "name": "Nitrógeno",
+    "englishName": "Nitrogen",
+    "mass": "14.007",
+    "family": "No metales",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas molecular",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.001145,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 63.15,
+    "boilingK": 77.36,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Nitrogen",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Nitrogen"
+      },
+      {
+        "title": "Royal Society of Chemistry · Nitrogen",
+        "url": "https://periodic-table.rsc.org/element/7/nitrogen"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 8,
+    "symbol": "O",
+    "name": "Oxígeno",
+    "englishName": "Oxygen",
+    "mass": "15.999",
+    "family": "No metales",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas molecular",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.0013079,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 54.36,
+    "boilingK": 90.2,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Oxygen",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen"
+      },
+      {
+        "title": "Royal Society of Chemistry · Oxygen",
+        "url": "https://periodic-table.rsc.org/element/8/oxygen"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 9,
+    "symbol": "F",
+    "name": "Flúor",
+    "englishName": "Fluorine",
+    "mass": "18.99840316",
+    "family": "Halógenos",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas molecular",
+    "appearance": "Gas amarillo pálido; el volumen representado es ilustrativo.",
+    "density": 0.0015531,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 53.53,
+    "boilingK": 85.03,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#d7d28a",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Fluorine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Fluorine"
+      },
+      {
+        "title": "Royal Society of Chemistry · Fluorine",
+        "url": "https://periodic-table.rsc.org/element/9/fluorine"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 10,
+    "symbol": "Ne",
+    "name": "Neón",
+    "englishName": "Neon",
+    "mass": "20.180",
+    "family": "Gases nobles",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas monoatómico",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.0008248,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 24.56,
+    "boilingK": 27.07,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Neon",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Neon"
+      },
+      {
+        "title": "Royal Society of Chemistry · Neon",
+        "url": "https://periodic-table.rsc.org/element/10/neon"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 11,
+    "symbol": "Na",
+    "name": "Sodio",
+    "englishName": "Sodium",
+    "mass": "22.9897693",
+    "family": "Alcalinos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 0.97,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 370.95,
+    "boilingK": 1156.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c6c9cb",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Sodium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Sodium",
+        "url": "https://periodic-table.rsc.org/element/11/sodium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 12,
+    "symbol": "Mg",
+    "name": "Magnesio",
+    "englishName": "Magnesium",
+    "mass": "24.305",
+    "family": "Alcalinotérreos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 1.74,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 923.0,
+    "boilingK": 1363.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#bdc6ce",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Magnesium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Magnesium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Magnesium",
+        "url": "https://periodic-table.rsc.org/element/12/magnesium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 13,
+    "symbol": "Al",
+    "name": "Aluminio",
+    "englishName": "Aluminum",
+    "mass": "26.981538",
+    "family": "Metales postransición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 2.7,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 933.437,
+    "boilingK": 2792.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c4ccd0",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Aluminum",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Aluminum"
+      },
+      {
+        "title": "Royal Society of Chemistry · Aluminum",
+        "url": "https://periodic-table.rsc.org/element/13/aluminum"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 14,
+    "symbol": "Si",
+    "name": "Silicio",
+    "englishName": "Silicon",
+    "mass": "28.085",
+    "family": "Metaloides",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Silicio cristalino",
+    "appearance": "Fragmento cristalino gris oscuro de brillo metálico.",
+    "density": 2.3296,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1687.0,
+    "boilingK": 3538.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#59636d",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Silicon",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Silicon"
+      },
+      {
+        "title": "Royal Society of Chemistry · Silicon",
+        "url": "https://periodic-table.rsc.org/element/14/silicon"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 15,
+    "symbol": "P",
+    "name": "Fósforo",
+    "englishName": "Phosphorus",
+    "mass": "30.97376200",
+    "family": "No metales",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Fósforo rojo",
+    "appearance": "Fragmento de fósforo rojo. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 1.82,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 317.3,
+    "boilingK": 553.65,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "powder",
+      "color": "#9b3028",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Phosphorus",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus"
+      },
+      {
+        "title": "Royal Society of Chemistry · Phosphorus",
+        "url": "https://periodic-table.rsc.org/element/15/phosphorus"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 16,
+    "symbol": "S",
+    "name": "Azufre",
+    "englishName": "Sulfur",
+    "mass": "32.07",
+    "family": "No metales",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Azufre α ortorrómbico (S₈)",
+    "appearance": "Cristales amarillos de azufre ortorrómbico.",
+    "density": 2.067,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 388.36,
+    "boilingK": 717.75,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#e7c52b",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Sulfur",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Sulfur"
+      },
+      {
+        "title": "Royal Society of Chemistry · Sulfur",
+        "url": "https://periodic-table.rsc.org/element/16/sulfur"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 17,
+    "symbol": "Cl",
+    "name": "Cloro",
+    "englishName": "Chlorine",
+    "mass": "35.45",
+    "family": "Halógenos",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas molecular",
+    "appearance": "Gas amarillo verdoso; no representa luz de descarga.",
+    "density": 0.002898,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 171.65,
+    "boilingK": 239.11,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#b0bc46",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Chlorine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Chlorine"
+      },
+      {
+        "title": "Royal Society of Chemistry · Chlorine",
+        "url": "https://periodic-table.rsc.org/element/17/chlorine"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 18,
+    "symbol": "Ar",
+    "name": "Argón",
+    "englishName": "Argon",
+    "mass": "39.9",
+    "family": "Gases nobles",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas monoatómico",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.0016309,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 83.8,
+    "boilingK": 87.3,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Argon",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Argon"
+      },
+      {
+        "title": "Royal Society of Chemistry · Argon",
+        "url": "https://periodic-table.rsc.org/element/18/argon"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 19,
+    "symbol": "K",
+    "name": "Potasio",
+    "englishName": "Potassium",
+    "mass": "39.0983",
+    "family": "Alcalinos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 0.89,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 336.53,
+    "boilingK": 1032.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b8bcc5",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Potassium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Potassium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Potassium",
+        "url": "https://periodic-table.rsc.org/element/19/potassium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 20,
+    "symbol": "Ca",
+    "name": "Calcio",
+    "englishName": "Calcium",
+    "mass": "40.08",
+    "family": "Alcalinotérreos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 1.54,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1115.0,
+    "boilingK": 1757.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b3b6b0",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Calcium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Calcium",
+        "url": "https://periodic-table.rsc.org/element/20/calcium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 21,
+    "symbol": "Sc",
+    "name": "Escandio",
+    "englishName": "Scandium",
+    "mass": "44.95591",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 2.99,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1814.0,
+    "boilingK": 3109.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Scandium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Scandium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Scandium",
+        "url": "https://periodic-table.rsc.org/element/21/scandium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 22,
+    "symbol": "Ti",
+    "name": "Titanio",
+    "englishName": "Titanium",
+    "mass": "47.867",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 4.5,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1941.0,
+    "boilingK": 3560.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#9fa7b0",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Titanium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Titanium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Titanium",
+        "url": "https://periodic-table.rsc.org/element/22/titanium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 23,
+    "symbol": "V",
+    "name": "Vanadio",
+    "englishName": "Vanadium",
+    "mass": "50.9415",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.0,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2183.0,
+    "boilingK": 3680.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#aab2ba",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Vanadium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Vanadium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Vanadium",
+        "url": "https://periodic-table.rsc.org/element/23/vanadium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 24,
+    "symbol": "Cr",
+    "name": "Cromo",
+    "englishName": "Chromium",
+    "mass": "51.996",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.15,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2180.0,
+    "boilingK": 2944.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#cbd2dc",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Chromium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Chromium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Chromium",
+        "url": "https://periodic-table.rsc.org/element/24/chromium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 25,
+    "symbol": "Mn",
+    "name": "Manganeso",
+    "englishName": "Manganese",
+    "mass": "54.93804",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.3,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1519.0,
+    "boilingK": 2334.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#a0a4a6",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Manganese",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Manganese"
+      },
+      {
+        "title": "Royal Society of Chemistry · Manganese",
+        "url": "https://periodic-table.rsc.org/element/25/manganese"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 26,
+    "symbol": "Fe",
+    "name": "Hierro",
+    "englishName": "Iron",
+    "mass": "55.84",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.874,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1811.0,
+    "boilingK": 3134.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#899096",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Iron",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Iron"
+      },
+      {
+        "title": "Royal Society of Chemistry · Iron",
+        "url": "https://periodic-table.rsc.org/element/26/iron"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 27,
+    "symbol": "Co",
+    "name": "Cobalto",
+    "englishName": "Cobalt",
+    "mass": "58.93319",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 8.86,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1768.0,
+    "boilingK": 3200.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#949ca5",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Cobalt",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Cobalt"
+      },
+      {
+        "title": "Royal Society of Chemistry · Cobalt",
+        "url": "https://periodic-table.rsc.org/element/27/cobalt"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 28,
+    "symbol": "Ni",
+    "name": "Níquel",
+    "englishName": "Nickel",
+    "mass": "58.693",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 8.912,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1728.0,
+    "boilingK": 3186.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#bec2bc",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Nickel",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Nickel"
+      },
+      {
+        "title": "Royal Society of Chemistry · Nickel",
+        "url": "https://periodic-table.rsc.org/element/28/nickel"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 29,
+    "symbol": "Cu",
+    "name": "Cobre",
+    "englishName": "Copper",
+    "mass": "63.55",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento metálico rojizo cobrizo, sin pátina de oxidación.",
+    "density": 8.933,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1357.77,
+    "boilingK": 2835.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#bd633a",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Copper",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Copper"
+      },
+      {
+        "title": "Royal Society of Chemistry · Copper",
+        "url": "https://periodic-table.rsc.org/element/29/copper"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "englishName": "Zinc",
+    "mass": "65.4",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.134,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 692.68,
+    "boilingK": 1180.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#a7b5c0",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Zinc",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Zinc"
+      },
+      {
+        "title": "Royal Society of Chemistry · Zinc",
+        "url": "https://periodic-table.rsc.org/element/30/zinc"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 31,
+    "symbol": "Ga",
+    "name": "Galio",
+    "englishName": "Gallium",
+    "mass": "69.723",
+    "family": "Metales postransición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 5.91,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 302.91,
+    "boilingK": 2477.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#bdc6cc",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Gallium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Gallium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Gallium",
+        "url": "https://periodic-table.rsc.org/element/31/gallium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 32,
+    "symbol": "Ge",
+    "name": "Germanio",
+    "englishName": "Germanium",
+    "mass": "72.63",
+    "family": "Metaloides",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Germanio cristalino",
+    "appearance": "Fragmento de germanio cristalino. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 5.323,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1211.4,
+    "boilingK": 3106.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#828b92",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Germanium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Germanium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Germanium",
+        "url": "https://periodic-table.rsc.org/element/32/germanium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 33,
+    "symbol": "As",
+    "name": "Arsénico",
+    "englishName": "Arsenic",
+    "mass": "74.92159",
+    "family": "Metaloides",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Arsénico gris",
+    "appearance": "Fragmento de arsénico gris. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 5.776,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1090.0,
+    "boilingK": 887.0,
+    "propertyNote": "Valores de referencia de PubChem; pueden depender del alótropo. Carbono y arsénico subliman a 1 atm.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#707782",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Arsenic",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic"
+      },
+      {
+        "title": "Royal Society of Chemistry · Arsenic",
+        "url": "https://periodic-table.rsc.org/element/33/arsenic"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 34,
+    "symbol": "Se",
+    "name": "Selenio",
+    "englishName": "Selenium",
+    "mass": "78.97",
+    "family": "No metales",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Selenio gris trigonal",
+    "appearance": "Fragmento de selenio gris trigonal. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 4.809,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 493.65,
+    "boilingK": 958.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#66616a",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Selenium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Selenium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Selenium",
+        "url": "https://periodic-table.rsc.org/element/34/selenium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 35,
+    "symbol": "Br",
+    "name": "Bromo",
+    "englishName": "Bromine",
+    "mass": "79.90",
+    "family": "Halógenos",
+    "state": "líquido",
+    "evidence": "documentada",
+    "form": "Líquido elemental",
+    "appearance": "Líquido rojizo oscuro, con volumen y superficie libre.",
+    "density": 3.11,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 265.95,
+    "boilingK": 331.95,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "liquid",
+      "color": "#6e160c",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Bromine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Bromine"
+      },
+      {
+        "title": "Royal Society of Chemistry · Bromine",
+        "url": "https://periodic-table.rsc.org/element/35/bromine"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 36,
+    "symbol": "Kr",
+    "name": "Kriptón",
+    "englishName": "Krypton",
+    "mass": "83.80",
+    "family": "Gases nobles",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas monoatómico",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.0034252,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 115.79,
+    "boilingK": 119.93,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Krypton",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Krypton"
+      },
+      {
+        "title": "Royal Society of Chemistry · Krypton",
+        "url": "https://periodic-table.rsc.org/element/36/krypton"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 37,
+    "symbol": "Rb",
+    "name": "Rubidio",
+    "englishName": "Rubidium",
+    "mass": "85.468",
+    "family": "Alcalinos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 1.53,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 312.46,
+    "boilingK": 961.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c0c4c8",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Rubidium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Rubidium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Rubidium",
+        "url": "https://periodic-table.rsc.org/element/37/rubidium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 38,
+    "symbol": "Sr",
+    "name": "Estroncio",
+    "englishName": "Strontium",
+    "mass": "87.62",
+    "family": "Alcalinotérreos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 2.64,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1050.0,
+    "boilingK": 1655.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c3c4b3",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Strontium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Strontium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Strontium",
+        "url": "https://periodic-table.rsc.org/element/38/strontium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 39,
+    "symbol": "Y",
+    "name": "Itrio",
+    "englishName": "Yttrium",
+    "mass": "88.90584",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 4.47,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1795.0,
+    "boilingK": 3618.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Yttrium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Yttrium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Yttrium",
+        "url": "https://periodic-table.rsc.org/element/39/yttrium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 40,
+    "symbol": "Zr",
+    "name": "Circonio",
+    "englishName": "Zirconium",
+    "mass": "91.22",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.52,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2128.0,
+    "boilingK": 4682.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Zirconium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Zirconium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Zirconium",
+        "url": "https://periodic-table.rsc.org/element/40/zirconium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 41,
+    "symbol": "Nb",
+    "name": "Niobio",
+    "englishName": "Niobium",
+    "mass": "92.90637",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 8.57,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2750.0,
+    "boilingK": 5017.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Niobium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Niobium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Niobium",
+        "url": "https://periodic-table.rsc.org/element/41/niobium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 42,
+    "symbol": "Mo",
+    "name": "Molibdeno",
+    "englishName": "Molybdenum",
+    "mass": "95.95",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 10.2,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2896.0,
+    "boilingK": 4912.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Molybdenum",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Molybdenum"
+      },
+      {
+        "title": "Royal Society of Chemistry · Molybdenum",
+        "url": "https://periodic-table.rsc.org/element/42/molybdenum"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 43,
+    "symbol": "Tc",
+    "name": "Tecnecio",
+    "englishName": "Technetium",
+    "mass": "96.90636",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 11.0,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2430.0,
+    "boilingK": 4538.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Technetium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Technetium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Technetium",
+        "url": "https://periodic-table.rsc.org/element/43/technetium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 44,
+    "symbol": "Ru",
+    "name": "Rutenio",
+    "englishName": "Ruthenium",
+    "mass": "101.1",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 12.1,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2607.0,
+    "boilingK": 4423.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Ruthenium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Ruthenium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Ruthenium",
+        "url": "https://periodic-table.rsc.org/element/44/ruthenium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 45,
+    "symbol": "Rh",
+    "name": "Rodio",
+    "englishName": "Rhodium",
+    "mass": "102.9055",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 12.4,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2237.0,
+    "boilingK": 3968.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Rhodium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Rhodium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Rhodium",
+        "url": "https://periodic-table.rsc.org/element/45/rhodium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 46,
+    "symbol": "Pd",
+    "name": "Paladio",
+    "englishName": "Palladium",
+    "mass": "106.42",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 12.0,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1828.05,
+    "boilingK": 3236.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c5c8ca",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Palladium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Palladium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Palladium",
+        "url": "https://periodic-table.rsc.org/element/46/palladium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 47,
+    "symbol": "Ag",
+    "name": "Plata",
+    "englishName": "Silver",
+    "mass": "107.868",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 10.501,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1234.93,
+    "boilingK": 2435.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#d9dde0",
+      "metalness": 1,
+      "roughness": 0.12
+    },
+    "sources": [
+      {
+        "title": "PubChem · Silver",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Silver"
+      },
+      {
+        "title": "Royal Society of Chemistry · Silver",
+        "url": "https://periodic-table.rsc.org/element/47/silver"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 48,
+    "symbol": "Cd",
+    "name": "Cadmio",
+    "englishName": "Cadmium",
+    "mass": "112.41",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 8.69,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 594.22,
+    "boilingK": 1040.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#bcc4c6",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Cadmium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Cadmium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Cadmium",
+        "url": "https://periodic-table.rsc.org/element/48/cadmium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 49,
+    "symbol": "In",
+    "name": "Indio",
+    "englishName": "Indium",
+    "mass": "114.818",
+    "family": "Metales postransición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.31,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 429.75,
+    "boilingK": 2345.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b9c2c8",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Indium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Indium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Indium",
+        "url": "https://periodic-table.rsc.org/element/49/indium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 50,
+    "symbol": "Sn",
+    "name": "Estaño",
+    "englishName": "Tin",
+    "mass": "118.71",
+    "family": "Metales postransición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Estaño β (blanco)",
+    "appearance": "Fragmento de estaño β (blanco). Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.287,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 505.08,
+    "boilingK": 2875.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c6c9cb",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Tin",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Tin"
+      },
+      {
+        "title": "Royal Society of Chemistry · Tin",
+        "url": "https://periodic-table.rsc.org/element/50/tin"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 51,
+    "symbol": "Sb",
+    "name": "Antimonio",
+    "englishName": "Antimony",
+    "mass": "121.760",
+    "family": "Metaloides",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Antimonio romboédrico",
+    "appearance": "Fragmento de antimonio romboédrico. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.685,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 903.78,
+    "boilingK": 1860.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#a2a9ad",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Antimony",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Antimony"
+      },
+      {
+        "title": "Royal Society of Chemistry · Antimony",
+        "url": "https://periodic-table.rsc.org/element/51/antimony"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 52,
+    "symbol": "Te",
+    "name": "Telurio",
+    "englishName": "Tellurium",
+    "mass": "127.6",
+    "family": "Metaloides",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Telurio trigonal",
+    "appearance": "Fragmento de telurio trigonal. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.232,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 722.66,
+    "boilingK": 1261.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#9ea4a7",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Tellurium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Tellurium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Tellurium",
+        "url": "https://periodic-table.rsc.org/element/52/tellurium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 53,
+    "symbol": "I",
+    "name": "Yodo",
+    "englishName": "Iodine",
+    "mass": "126.9045",
+    "family": "Halógenos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Cristal molecular de I₂",
+    "appearance": "Fragmento de cristal molecular de i₂. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 4.93,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 386.85,
+    "boilingK": 457.55,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#342c3e",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Iodine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Iodine"
+      },
+      {
+        "title": "Royal Society of Chemistry · Iodine",
+        "url": "https://periodic-table.rsc.org/element/53/iodine"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 54,
+    "symbol": "Xe",
+    "name": "Xenón",
+    "englishName": "Xenon",
+    "mass": "131.29",
+    "family": "Gases nobles",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas monoatómico",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.0053664,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 161.36,
+    "boilingK": 165.03,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Xenon",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Xenon"
+      },
+      {
+        "title": "Royal Society of Chemistry · Xenon",
+        "url": "https://periodic-table.rsc.org/element/54/xenon"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 55,
+    "symbol": "Cs",
+    "name": "Cesio",
+    "englishName": "Cesium",
+    "mass": "132.9054520",
+    "family": "Alcalinos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 1.93,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 301.59,
+    "boilingK": 944.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c8b270",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Cesium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Cesium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Cesium",
+        "url": "https://periodic-table.rsc.org/element/55/cesium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 56,
+    "symbol": "Ba",
+    "name": "Bario",
+    "englishName": "Barium",
+    "mass": "137.33",
+    "family": "Alcalinotérreos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 3.62,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1000.0,
+    "boilingK": 2170.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b9bab0",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Barium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Barium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Barium",
+        "url": "https://periodic-table.rsc.org/element/56/barium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 57,
+    "symbol": "La",
+    "name": "Lantano",
+    "englishName": "Lanthanum",
+    "mass": "138.9055",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.15,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1191.0,
+    "boilingK": 3737.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Lanthanum",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Lanthanum"
+      },
+      {
+        "title": "Royal Society of Chemistry · Lanthanum",
+        "url": "https://periodic-table.rsc.org/element/57/lanthanum"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 58,
+    "symbol": "Ce",
+    "name": "Cerio",
+    "englishName": "Cerium",
+    "mass": "140.116",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.77,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1071.0,
+    "boilingK": 3697.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Cerium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Cerium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Cerium",
+        "url": "https://periodic-table.rsc.org/element/58/cerium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 59,
+    "symbol": "Pr",
+    "name": "Praseodimio",
+    "englishName": "Praseodymium",
+    "mass": "140.90766",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.77,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1204.0,
+    "boilingK": 3793.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Praseodymium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Praseodymium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Praseodymium",
+        "url": "https://periodic-table.rsc.org/element/59/praseodymium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 60,
+    "symbol": "Nd",
+    "name": "Neodimio",
+    "englishName": "Neodymium",
+    "mass": "144.24",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.01,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1294.0,
+    "boilingK": 3347.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#bfc0be",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Neodymium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Neodymium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Neodymium",
+        "url": "https://periodic-table.rsc.org/element/60/neodymium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 61,
+    "symbol": "Pm",
+    "name": "Prometio",
+    "englishName": "Promethium",
+    "mass": "144.91276",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.26,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1315.0,
+    "boilingK": 3273.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Promethium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Promethium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Promethium",
+        "url": "https://periodic-table.rsc.org/element/61/promethium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 62,
+    "symbol": "Sm",
+    "name": "Samario",
+    "englishName": "Samarium",
+    "mass": "150.4",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.52,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1347.0,
+    "boilingK": 2067.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Samarium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Samarium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Samarium",
+        "url": "https://periodic-table.rsc.org/element/62/samarium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 63,
+    "symbol": "Eu",
+    "name": "Europio",
+    "englishName": "Europium",
+    "mass": "151.964",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 5.24,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1095.0,
+    "boilingK": 1802.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Europium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Europium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Europium",
+        "url": "https://periodic-table.rsc.org/element/63/europium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 64,
+    "symbol": "Gd",
+    "name": "Gadolinio",
+    "englishName": "Gadolinium",
+    "mass": "157.25",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 7.9,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1586.0,
+    "boilingK": 3546.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Gadolinium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Gadolinium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Gadolinium",
+        "url": "https://periodic-table.rsc.org/element/64/gadolinium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 65,
+    "symbol": "Tb",
+    "name": "Terbio",
+    "englishName": "Terbium",
+    "mass": "158.92535",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 8.23,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1629.0,
+    "boilingK": 3503.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Terbium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Terbium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Terbium",
+        "url": "https://periodic-table.rsc.org/element/65/terbium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 66,
+    "symbol": "Dy",
+    "name": "Disprosio",
+    "englishName": "Dysprosium",
+    "mass": "162.500",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 8.55,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1685.0,
+    "boilingK": 2840.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Dysprosium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Dysprosium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Dysprosium",
+        "url": "https://periodic-table.rsc.org/element/66/dysprosium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 67,
+    "symbol": "Ho",
+    "name": "Holmio",
+    "englishName": "Holmium",
+    "mass": "164.93033",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 8.8,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1747.0,
+    "boilingK": 2973.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Holmium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Holmium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Holmium",
+        "url": "https://periodic-table.rsc.org/element/67/holmium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 68,
+    "symbol": "Er",
+    "name": "Erbio",
+    "englishName": "Erbium",
+    "mass": "167.26",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 9.07,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1802.0,
+    "boilingK": 3141.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Erbium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Erbium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Erbium",
+        "url": "https://periodic-table.rsc.org/element/68/erbium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 69,
+    "symbol": "Tm",
+    "name": "Tulio",
+    "englishName": "Thulium",
+    "mass": "168.93422",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 9.32,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1818.0,
+    "boilingK": 2223.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Thulium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Thulium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Thulium",
+        "url": "https://periodic-table.rsc.org/element/69/thulium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 70,
+    "symbol": "Yb",
+    "name": "Iterbio",
+    "englishName": "Ytterbium",
+    "mass": "173.05",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 6.9,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1092.0,
+    "boilingK": 1469.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Ytterbium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Ytterbium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Ytterbium",
+        "url": "https://periodic-table.rsc.org/element/70/ytterbium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 71,
+    "symbol": "Lu",
+    "name": "Lutecio",
+    "englishName": "Lutetium",
+    "mass": "174.9667",
+    "family": "Lantánidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 9.84,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1936.0,
+    "boilingK": 3675.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Lutetium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Lutetium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Lutetium",
+        "url": "https://periodic-table.rsc.org/element/71/lutetium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 72,
+    "symbol": "Hf",
+    "name": "Hafnio",
+    "englishName": "Hafnium",
+    "mass": "178.49",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 13.3,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2506.0,
+    "boilingK": 4876.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Hafnium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Hafnium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Hafnium",
+        "url": "https://periodic-table.rsc.org/element/72/hafnium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 73,
+    "symbol": "Ta",
+    "name": "Tantalio",
+    "englishName": "Tantalum",
+    "mass": "180.9479",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 16.4,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 3290.0,
+    "boilingK": 5731.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Tantalum",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Tantalum"
+      },
+      {
+        "title": "Royal Society of Chemistry · Tantalum",
+        "url": "https://periodic-table.rsc.org/element/73/tantalum"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 74,
+    "symbol": "W",
+    "name": "Wolframio",
+    "englishName": "Tungsten",
+    "mass": "183.84",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 19.3,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 3695.0,
+    "boilingK": 5828.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#91969b",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Tungsten",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Tungsten"
+      },
+      {
+        "title": "Royal Society of Chemistry · Tungsten",
+        "url": "https://periodic-table.rsc.org/element/74/tungsten"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 75,
+    "symbol": "Re",
+    "name": "Renio",
+    "englishName": "Rhenium",
+    "mass": "186.207",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 20.8,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 3459.0,
+    "boilingK": 5869.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#babdc0",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Rhenium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Rhenium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Rhenium",
+        "url": "https://periodic-table.rsc.org/element/75/rhenium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 76,
+    "symbol": "Os",
+    "name": "Osmio",
+    "englishName": "Osmium",
+    "mass": "190.2",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 22.57,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 3306.0,
+    "boilingK": 5285.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#8c9aa8",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Osmium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Osmium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Osmium",
+        "url": "https://periodic-table.rsc.org/element/76/osmium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 77,
+    "symbol": "Ir",
+    "name": "Iridio",
+    "englishName": "Iridium",
+    "mass": "192.22",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 22.42,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2719.0,
+    "boilingK": 4701.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c1c4c6",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Iridium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Iridium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Iridium",
+        "url": "https://periodic-table.rsc.org/element/77/iridium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 78,
+    "symbol": "Pt",
+    "name": "Platino",
+    "englishName": "Platinum",
+    "mass": "195.08",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 21.46,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2041.55,
+    "boilingK": 4098.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#c5c5c1",
+      "metalness": 1,
+      "roughness": 0.12
+    },
+    "sources": [
+      {
+        "title": "PubChem · Platinum",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Platinum"
+      },
+      {
+        "title": "Royal Society of Chemistry · Platinum",
+        "url": "https://periodic-table.rsc.org/element/78/platinum"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 79,
+    "symbol": "Au",
+    "name": "Oro",
+    "englishName": "Gold",
+    "mass": "196.96657",
+    "family": "Metales de transición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento metálico amarillo dorado, sin óxido ni recubrimientos.",
+    "density": 19.282,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1337.33,
+    "boilingK": 3129.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#e0ac42",
+      "metalness": 1,
+      "roughness": 0.12
+    },
+    "sources": [
+      {
+        "title": "PubChem · Gold",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Gold"
+      },
+      {
+        "title": "Royal Society of Chemistry · Gold",
+        "url": "https://periodic-table.rsc.org/element/79/gold"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 80,
+    "symbol": "Hg",
+    "name": "Mercurio",
+    "englishName": "Mercury",
+    "mass": "200.59",
+    "family": "Metales de transición",
+    "state": "líquido",
+    "evidence": "documentada",
+    "form": "Líquido elemental",
+    "appearance": "Líquido metálico plateado, con una superficie de alta tensión.",
+    "density": 13.5336,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 234.32,
+    "boilingK": 629.88,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "mercury",
+      "color": "#c7d1da",
+      "metalness": 1,
+      "roughness": 0.06
+    },
+    "sources": [
+      {
+        "title": "PubChem · Mercury",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Mercury"
+      },
+      {
+        "title": "Royal Society of Chemistry · Mercury",
+        "url": "https://periodic-table.rsc.org/element/80/mercury"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 81,
+    "symbol": "Tl",
+    "name": "Talio",
+    "englishName": "Thallium",
+    "mass": "204.383",
+    "family": "Metales postransición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 11.8,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 577.0,
+    "boilingK": 1746.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#a9adb2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Thallium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Thallium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Thallium",
+        "url": "https://periodic-table.rsc.org/element/81/thallium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 82,
+    "symbol": "Pb",
+    "name": "Plomo",
+    "englishName": "Lead",
+    "mass": "207",
+    "family": "Metales postransición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 11.342,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 600.61,
+    "boilingK": 2022.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#737c89",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Lead",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Lead"
+      },
+      {
+        "title": "Royal Society of Chemistry · Lead",
+        "url": "https://periodic-table.rsc.org/element/82/lead"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 83,
+    "symbol": "Bi",
+    "name": "Bismuto",
+    "englishName": "Bismuth",
+    "mass": "208.98040",
+    "family": "Metales postransición",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Bismuto sin capa de óxido",
+    "appearance": "Fragmento de bismuto sin capa de óxido. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 9.807,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 544.55,
+    "boilingK": 1837.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "crystal",
+      "color": "#c5aa9f",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Bismuth",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Bismuth"
+      },
+      {
+        "title": "Royal Society of Chemistry · Bismuth",
+        "url": "https://periodic-table.rsc.org/element/83/bismuth"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 84,
+    "symbol": "Po",
+    "name": "Polonio",
+    "englishName": "Polonium",
+    "mass": "208.98243",
+    "family": "Metaloides",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 9.32,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 527.0,
+    "boilingK": 1235.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#aaaeb5",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Polonium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Polonium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Polonium",
+        "url": "https://periodic-table.rsc.org/element/84/polonium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 85,
+    "symbol": "At",
+    "name": "Astato",
+    "englishName": "Astatine",
+    "mass": "209.98715",
+    "family": "Halógenos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Astatine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Astatine"
+      },
+      {
+        "title": "Royal Society of Chemistry · Astatine",
+        "url": "https://periodic-table.rsc.org/element/85/astatine"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 86,
+    "symbol": "Rn",
+    "name": "Radón",
+    "englishName": "Radon",
+    "mass": "222.01758",
+    "family": "Gases nobles",
+    "state": "gas",
+    "evidence": "documentada",
+    "form": "Gas monoatómico",
+    "appearance": "Volumen ilustrativo de un gas incoloro; su opacidad se exagera para localizarlo.",
+    "density": 0.0090748,
+    "densityNote": "Densidad calculada con el gas ideal a 25 °C y 1 atm; se usa la masa molecular cuando procede.",
+    "meltingK": 202.0,
+    "boilingK": 211.45,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "gas",
+      "color": "#dbe5e8",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Radon",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Radon"
+      },
+      {
+        "title": "Royal Society of Chemistry · Radon",
+        "url": "https://periodic-table.rsc.org/element/86/radon"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 87,
+    "symbol": "Fr",
+    "name": "Francio",
+    "englishName": "Francium",
+    "mass": "223.01973",
+    "family": "Alcalinos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Francium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Francium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Francium",
+        "url": "https://periodic-table.rsc.org/element/87/francium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 88,
+    "symbol": "Ra",
+    "name": "Radio",
+    "englishName": "Radium",
+    "mass": "226.02541",
+    "family": "Alcalinotérreos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 5.0,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 973.0,
+    "boilingK": 1413.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Radium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Radium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Radium",
+        "url": "https://periodic-table.rsc.org/element/88/radium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 89,
+    "symbol": "Ac",
+    "name": "Actinio",
+    "englishName": "Actinium",
+    "mass": "227.02775",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 10.07,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1324.0,
+    "boilingK": 3471.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Actinium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Actinium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Actinium",
+        "url": "https://periodic-table.rsc.org/element/89/actinium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 90,
+    "symbol": "Th",
+    "name": "Torio",
+    "englishName": "Thorium",
+    "mass": "232.038",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 11.72,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 2023.0,
+    "boilingK": 5061.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#afb3b5",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Thorium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Thorium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Thorium",
+        "url": "https://periodic-table.rsc.org/element/90/thorium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 91,
+    "symbol": "Pa",
+    "name": "Protactinio",
+    "englishName": "Protactinium",
+    "mass": "231.03588",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 15.37,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1845.0,
+    "boilingK": null,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Protactinium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Protactinium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Protactinium",
+        "url": "https://periodic-table.rsc.org/element/91/protactinium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 92,
+    "symbol": "U",
+    "name": "Uranio",
+    "englishName": "Uranium",
+    "mass": "238.0289",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 18.95,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1408.0,
+    "boilingK": 4404.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#868e91",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Uranium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Uranium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Uranium",
+        "url": "https://periodic-table.rsc.org/element/92/uranium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 93,
+    "symbol": "Np",
+    "name": "Neptunio",
+    "englishName": "Neptunium",
+    "mass": "237.048172",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 20.25,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 917.0,
+    "boilingK": 4175.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Neptunium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Neptunium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Neptunium",
+        "url": "https://periodic-table.rsc.org/element/93/neptunium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 94,
+    "symbol": "Pu",
+    "name": "Plutonio",
+    "englishName": "Plutonium",
+    "mass": "244.06420",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 19.84,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 913.0,
+    "boilingK": 3501.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#8b9095",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Plutonium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Plutonium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Plutonium",
+        "url": "https://periodic-table.rsc.org/element/94/plutonium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 95,
+    "symbol": "Am",
+    "name": "Americio",
+    "englishName": "Americium",
+    "mass": "243.061380",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 13.69,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1449.0,
+    "boilingK": 2284.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Americium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Americium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Americium",
+        "url": "https://periodic-table.rsc.org/element/95/americium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 96,
+    "symbol": "Cm",
+    "name": "Curio",
+    "englishName": "Curium",
+    "mass": "247.07035",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "documentada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 13.51,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1618.0,
+    "boilingK": 3400.0,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Curium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Curium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Curium",
+        "url": "https://periodic-table.rsc.org/element/96/curium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 97,
+    "symbol": "Bk",
+    "name": "Berkelio",
+    "englishName": "Berkelium",
+    "mass": "247.07031",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "aproximada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": 14.0,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1323.0,
+    "boilingK": null,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Berkelium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Berkelium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Berkelium",
+        "url": "https://periodic-table.rsc.org/element/97/berkelium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 98,
+    "symbol": "Cf",
+    "name": "Californio",
+    "englishName": "Californium",
+    "mass": "251.07959",
+    "family": "Actínidos",
+    "state": "sólido",
+    "evidence": "aproximada",
+    "form": "Metal elemental",
+    "appearance": "Fragmento de metal elemental. Geometría procedural orientativa; no es un escaneo de una muestra.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": 1173.0,
+    "boilingK": null,
+    "propertyNote": "Valores de referencia de PubChem.",
+    "visual": {
+      "kind": "metal",
+      "color": "#b7bdc2",
+      "metalness": 1,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Californium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Californium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Californium",
+        "url": "https://periodic-table.rsc.org/element/98/californium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 99,
+    "symbol": "Es",
+    "name": "Einsteinio",
+    "englishName": "Einsteinium",
+    "mass": "252.0830",
+    "family": "Actínidos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Einsteinium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Einsteinium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Einsteinium",
+        "url": "https://periodic-table.rsc.org/element/99/einsteinium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 100,
+    "symbol": "Fm",
+    "name": "Fermio",
+    "englishName": "Fermium",
+    "mass": "257.09511",
+    "family": "Actínidos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Fermium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Fermium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Fermium",
+        "url": "https://periodic-table.rsc.org/element/100/fermium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 101,
+    "symbol": "Md",
+    "name": "Mendelevio",
+    "englishName": "Mendelevium",
+    "mass": "258.09843",
+    "family": "Actínidos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Mendelevium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Mendelevium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Mendelevium",
+        "url": "https://periodic-table.rsc.org/element/101/mendelevium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 102,
+    "symbol": "No",
+    "name": "Nobelio",
+    "englishName": "Nobelium",
+    "mass": "259.10100",
+    "family": "Actínidos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Nobelium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Nobelium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Nobelium",
+        "url": "https://periodic-table.rsc.org/element/102/nobelium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 103,
+    "symbol": "Lr",
+    "name": "Lawrencio",
+    "englishName": "Lawrencium",
+    "mass": "266.120",
+    "family": "Actínidos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Lawrencium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Lawrencium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Lawrencium",
+        "url": "https://periodic-table.rsc.org/element/103/lawrencium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 104,
+    "symbol": "Rf",
+    "name": "Rutherfordio",
+    "englishName": "Rutherfordium",
+    "mass": "267.122",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Rutherfordium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Rutherfordium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Rutherfordium",
+        "url": "https://periodic-table.rsc.org/element/104/rutherfordium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 105,
+    "symbol": "Db",
+    "name": "Dubnio",
+    "englishName": "Dubnium",
+    "mass": "268.126",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Dubnium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Dubnium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Dubnium",
+        "url": "https://periodic-table.rsc.org/element/105/dubnium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 106,
+    "symbol": "Sg",
+    "name": "Seaborgio",
+    "englishName": "Seaborgium",
+    "mass": "269.128",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Seaborgium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Seaborgium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Seaborgium",
+        "url": "https://periodic-table.rsc.org/element/106/seaborgium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 107,
+    "symbol": "Bh",
+    "name": "Bohrio",
+    "englishName": "Bohrium",
+    "mass": "270.133",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Bohrium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Bohrium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Bohrium",
+        "url": "https://periodic-table.rsc.org/element/107/bohrium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 108,
+    "symbol": "Hs",
+    "name": "Hassio",
+    "englishName": "Hassium",
+    "mass": "269.1336",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Hassium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Hassium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Hassium",
+        "url": "https://periodic-table.rsc.org/element/108/hassium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 109,
+    "symbol": "Mt",
+    "name": "Meitnerio",
+    "englishName": "Meitnerium",
+    "mass": "277.154",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Meitnerium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Meitnerium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Meitnerium",
+        "url": "https://periodic-table.rsc.org/element/109/meitnerium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 110,
+    "symbol": "Ds",
+    "name": "Darmstatio",
+    "englishName": "Darmstadtium",
+    "mass": "282.166",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Darmstadtium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Darmstadtium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Darmstadtium",
+        "url": "https://periodic-table.rsc.org/element/110/darmstadtium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 111,
+    "symbol": "Rg",
+    "name": "Roentgenio",
+    "englishName": "Roentgenium",
+    "mass": "282.169",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Roentgenium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Roentgenium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Roentgenium",
+        "url": "https://periodic-table.rsc.org/element/111/roentgenium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 112,
+    "symbol": "Cn",
+    "name": "Copernicio",
+    "englishName": "Copernicium",
+    "mass": "286.179",
+    "family": "Metales de transición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Copernicium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Copernicium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Copernicium",
+        "url": "https://periodic-table.rsc.org/element/112/copernicium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 113,
+    "symbol": "Nh",
+    "name": "Nihonio",
+    "englishName": "Nihonium",
+    "mass": "286.182",
+    "family": "Metales postransición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Nihonium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Nihonium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Nihonium",
+        "url": "https://periodic-table.rsc.org/element/113/nihonium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 114,
+    "symbol": "Fl",
+    "name": "Flerovio",
+    "englishName": "Flerovium",
+    "mass": "290.192",
+    "family": "Metales postransición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Flerovium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Flerovium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Flerovium",
+        "url": "https://periodic-table.rsc.org/element/114/flerovium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 115,
+    "symbol": "Mc",
+    "name": "Moscovio",
+    "englishName": "Moscovium",
+    "mass": "290.196",
+    "family": "Metales postransición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Moscovium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Moscovium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Moscovium",
+        "url": "https://periodic-table.rsc.org/element/115/moscovium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 116,
+    "symbol": "Lv",
+    "name": "Livermorio",
+    "englishName": "Livermorium",
+    "mass": "293.205",
+    "family": "Metales postransición",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Livermorium",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Livermorium"
+      },
+      {
+        "title": "Royal Society of Chemistry · Livermorium",
+        "url": "https://periodic-table.rsc.org/element/116/livermorium"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 117,
+    "symbol": "Ts",
+    "name": "Teneso",
+    "englishName": "Tennessine",
+    "mass": "294.211",
+    "family": "Halógenos",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Tennessine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Tennessine"
+      },
+      {
+        "title": "Royal Society of Chemistry · Tennessine",
+        "url": "https://periodic-table.rsc.org/element/117/tennessine"
+      }
+    ],
+    "rscChecked": true
+  },
+  {
+    "number": 118,
+    "symbol": "Og",
+    "name": "Oganesón",
+    "englishName": "Oganesson",
+    "mass": "295.216",
+    "family": "Gases nobles",
+    "state": "desconocido",
+    "evidence": "conceptual",
+    "form": "Sin muestra macroscópica observada",
+    "appearance": "No se muestra una supuesta muestra real: su apariencia macroscópica no está establecida.",
+    "density": null,
+    "densityNote": "Valor de referencia de PubChem; temperatura y fase de medida según la fuente, no corregido a 25 °C.",
+    "meltingK": null,
+    "boilingK": null,
+    "propertyNote": "Se omiten valores predichos o sin muestra macroscópica.",
+    "visual": {
+      "kind": "unknown",
+      "color": "#b7bdc2",
+      "metalness": 0,
+      "roughness": 0.28
+    },
+    "sources": [
+      {
+        "title": "PubChem · Oganesson",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Oganesson"
+      },
+      {
+        "title": "Royal Society of Chemistry · Oganesson",
+        "url": "https://periodic-table.rsc.org/element/118/oganesson"
+      }
+    ],
+    "rscChecked": true
+  }
+]

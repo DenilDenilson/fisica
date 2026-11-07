@@ -80,6 +80,7 @@ export default function Presentation() {
         <button className="next" disabled={index === 4 || busy} onClick={() => { wake(); navigate(1); }}>
           {busy ? 'Transformando' : index === 4 ? 'Fin del estudio' : index === 0 ? 'Explorar' : 'Continuar'} <span aria-hidden="true">→</span>
         </button>
+        <a className="home-return" href="/">Índice</a>
         <button className="sources" onClick={openSources} aria-label="Ver fuentes y notas científicas">Fuentes y notas</button>
       </nav>
       <div className="tap-hint pointer-events-none" aria-hidden="true">{busy ? 'OBSERVA LA TRANSFORMACIÓN' : index === 4 ? '← PARA VOLVER A EXPLORAR' : 'CLIC, TOQUE O ESPACIO PARA CONTINUAR'}</div>

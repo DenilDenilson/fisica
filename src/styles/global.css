@@ -111,3 +111,7 @@ h1 { font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgi
 .balance-key span::before { content: ""; display: inline-block; width: 10px; height: 1px; margin-right: 6px; vertical-align: middle; background: currentColor; }
 .navigation .next, .navigation .sources { white-space: nowrap; }
 @media (max-width: 699px) { .navigation .next { font-size: 10px; } .next span { margin-left: 8px; } }
+
+.navigation .home-return { color: #87929f; font-size: 9px; text-decoration: none; margin-left: auto; }
+.navigation .home-return + .sources { margin-left: 0; }
+@media (max-width: 699px) { .navigation .home-return { font-size: 8px; } .navigation { gap: 9px; } }

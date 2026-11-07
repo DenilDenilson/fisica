@@ -67,6 +67,7 @@ export async function createMuseum(canvas: HTMLCanvasElement, onSelect: (element
   let selected: Element | null = null;
   let disposed = false;
   let pending = false;
+  let preserveCameraOnResize = false;
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 
   function label(element: Element) {
@@ -146,7 +147,8 @@ export async function createMuseum(canvas: HTMLCanvasElement, onSelect: (element
   const observer = new ResizeObserver(() => {
     const w = Math.max(1, canvas.clientWidth), h = Math.max(1, canvas.clientHeight);
     renderer.setSize(w, h, false); camera.aspect = w / h; camera.updateProjectionMatrix();
-    if (!selected) reset(); else draw();
+    if (!selected && !preserveCameraOnResize) reset(); else draw();
+    preserveCameraOnResize = false;
   });
   observer.observe(canvas);
   controls.addEventListener('change', draw);
@@ -194,6 +196,7 @@ export async function createMuseum(canvas: HTMLCanvasElement, onSelect: (element
     if (element && !selected) {
       savedPosition = camera.position.clone(); savedTarget = controls.target.clone();
     }
+    preserveCameraOnResize = Boolean(selected && !element);
     selected = element;
     controls.enablePan = !element;
     detail.clear();

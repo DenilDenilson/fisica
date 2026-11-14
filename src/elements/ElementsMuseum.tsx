@@ -17,6 +17,7 @@ export default function ElementsMuseum() {
   const [family, setFamily] = useState('');
   const [state, setState] = useState('');
   const [selected, setSelected] = useState<Element | null>(null);
+  const selectedRef = useRef<Element | null>(null);
   const [quality, setQuality] = useState('auto');
   const visible = useMemo(() => elements.filter(e => matches(e, query, family, state)), [query, family, state]);
   const visibleRef = useRef(visible);
@@ -24,6 +25,7 @@ export default function ElementsMuseum() {
 
   function select(element: Element | null) {
     if (element && !selected) previousFocus.current = document.activeElement as HTMLElement;
+    selectedRef.current = element;
     setSelected(element); api.current?.select(element);
     if (!element) requestAnimationFrame(() => previousFocus.current?.focus());
   }
@@ -31,12 +33,21 @@ export default function ElementsMuseum() {
     if (selected) closeButton.current?.focus();
   }, [selected]);
   useEffect(() => {
+    const symbol = new URLSearchParams(window.location.search).get('elemento');
+    const element = elements.find(item => item.symbol === symbol);
+    if (!element) return;
+    previousFocus.current = canvas.current;
+    selectedRef.current = element;
+    setSelected(element);
+  }, []);
+  useEffect(() => {
     let cancelled = false;
     let instance: Museum | null = null;
     import('./museum').then(({ createMuseum }) => {
       if (cancelled || !canvas.current) return null;
       return createMuseum(canvas.current, element => {
       previousFocus.current = canvas.current;
+      selectedRef.current = element;
       setSelected(element); api.current?.select(element);
       });
     }).then(museum => {
@@ -44,6 +55,7 @@ export default function ElementsMuseum() {
       if (cancelled) { museum.dispose(); return; }
       instance = museum; api.current = museum;
       museum.filter(new Set(visibleRef.current.map(e => e.number)));
+      if (selectedRef.current) museum.select(selectedRef.current);
       setReady(true);
     }).catch(() => {
       if (!cancelled) setError('No se pudo iniciar la vista 3D en este dispositivo. Puedes explorar los 118 elementos en el índice y consultar sus propiedades.');
@@ -106,6 +118,11 @@ export default function ElementsMuseum() {
         <h2 id="element-title">{selected.name}</h2>
         <p className="selected-form">{selected.form}</p>
         <p className="element-description">{selected.appearance}</p>
+        {selected.number === 1 && <section className="element-origin" aria-labelledby="hydrogen-origin-heading">
+          <p id="hydrogen-origin-heading">¿De dónde viene el hidrógeno?</p>
+          <a href="/origen/hidrogeno">Ver origen <span aria-hidden="true">↗</span></a>
+          <span>Del universo caliente al primer átomo. Una presentación a tu ritmo.</span>
+        </section>}
         <dl className="element-properties">
           <div><dt>Estado a 25 °C y 1 atm</dt><dd>{selected.state === 'desconocido' ? 'No establecido experimentalmente' : selected.state}</dd></div>
           <div><dt>Masa de referencia · u</dt><dd>{selected.mass}</dd></div>

@@ -95,3 +95,19 @@ Arrastra para orbitar, botón derecho o dos dedos para desplazar, rueda o pelliz
 La ficha distingue apariencia documentada, aproximada y conceptual, identifica el alótropo y enlaza las fuentes. Hay navegación sin 3D mediante el índice si el dispositivo no soporta el renderer. El detalle puede rotarse con los controles orbitales; las flechas cambian de elemento con el lienzo enfocado y Escape vuelve a la tabla.
 
 Datos, geometrías/materiales, escena e interfaz están separados en `src/elements/`. Ver [procedencia y límites científicos](docs/elementos-procedencia.md) antes de modificar datos. No se descargan texturas, modelos ni fuentes externos durante la visita.
+
+## Origen del hidrógeno
+
+La ficha del hidrógeno incluye **Ver origen**, una presentación a pantalla completa
+en `/origen/hidrogeno`. Doce hitos recorren el universo caliente, la formación de
+protones y neutrones, las conversiones débiles, el cuello de botella del deuterio,
+el hidrógeno que queda tras la nucleosíntesis y la formación del átomo neutro hacia
+los 380 000 años. Se distinguen el núcleo de ¹H, el deuterio y el átomo neutro.
+
+Las reacciones se animan en Canvas 2D con GSAP, se detienen en cada hito y pueden
+recorrerse en ambos sentidos con clic, toque o teclado. Se respeta movimiento
+reducido. **Volver al hidrógeno** reabre su ficha en la colección.
+
+El guion se basa en el capítulo 3 de *La formación de los elementos químicos*
+(Nácher González y Pastor Carpi, 2025). La bibliografía y las simplificaciones
+están en «Fuentes y notas» y en [origen del hidrógeno](docs/origen-hidrogeno.md).

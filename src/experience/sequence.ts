@@ -14,7 +14,7 @@ export const sequence: readonly SceneState[] = [
   { spread: 0.16, core: 1, heat: 1, fusion: 1, balance: 1 },
 ];
 
-export function destination(current: number, direction: number, busy: boolean): number {
+export function destination(current: number, direction: number, busy: boolean, length = sequence.length): number {
   if (busy) return current;
-  return Math.max(0, Math.min(sequence.length - 1, current + Math.sign(direction)));
+  return Math.max(0, Math.min(length - 1, current + Math.sign(direction)));
 }
